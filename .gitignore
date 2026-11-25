@@ -1,0 +1,16 @@
+.idea/
+
+*.log
+
+.env
+.env.*
+!.env.example
+
+/bin/
+/dist/
+/tmp/
+*.exe
+*.test
+*.out
+
+test.http
